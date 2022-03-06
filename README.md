@@ -29,6 +29,6 @@ A 3rd-year student pursuing Bachelors in Electronics and Communications with a k
 <hr>
 
 <p align="center">
-  <img src="https://github.com/prantikseal/prantikseal/raw/output/github-contribution-grid-snake.svg" alt="snake-eating-up-mycontributions😂"></center>
+  <img src="https://github.com/prantikseal/prantikseal/blob/main/github-contribution-grid-snake.svg" alt="snake-eating-up-mycontributions😂"></center>
 </p>
 <p align="centre">My contributions ☝️</p>
