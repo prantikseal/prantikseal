@@ -9,7 +9,7 @@ A 3rd-year student pursuing Bachelors in Electronics and Communications with a k
 <p>
 <a align= "center" href="https://github.com/prantikseal">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
-<img align="right" height="350" width="400" src="https://giphy.com/gifs/keyboard-admin-prtg-Wsju5zAb5kcOfxJV9i" /> </a>
+<img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
 
