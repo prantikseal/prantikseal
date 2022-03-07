@@ -3,13 +3,15 @@
          height="45"
          width="45" />, I'm Prantik Kumar Seal</h1>
          <p>
+          <a align= "center" href="https://github.com/prantikseal">
 <h5 align = "right">
          A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!
 </h5>
 <a href="https://app.daily.dev/prantikseal" align = "left" ><img src="https://api.daily.dev/devcards/1228b8737b99441c8b06f78e36cfc87f.png?r=mtd" width="400" alt="Prantik Seal's Dev Card"/></a>
+         </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=yellow&style=flat" alt="prantikseal" /> </p>
 <p>
 <a align= "center" href="https://github.com/prantikseal">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
