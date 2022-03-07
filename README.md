@@ -4,7 +4,7 @@
          width="45" />, I'm Prantik Kumar Seal</h1>
 <h5 align="center">A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=#F7FD04&style=flat" alt="prantikseal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=&F7FD04&style=flat" alt="prantikseal" /> </p>
 <p>
 <a align= "center" href="https://github.com/prantikseal">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
