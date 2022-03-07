@@ -2,18 +2,15 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Prantik Kumar Seal</h1>
-         <p>
-         <h5 align="center">A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
-         <a href="https://app.daily.dev/prantikseal" align = "center" >
-                  <img src="https://api.daily.dev/devcards/1228b8737b99441c8b06f78e36cfc87f.png?r=mtd" width="400" alt="Prantik Seal's Dev Card"/>
-         </a>
-</p>
+<h5 align="center">A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=yellow&style=flat" alt="prantikseal" /> </p>
 <p>
 <a align= "center" href="https://github.com/prantikseal">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
-<img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
+
+<img align="right" src="https://api.daily.dev/devcards/1228b8737b99441c8b06f78e36cfc87f.png?r=mtd" width="400" alt="Prantik Seal's Dev Card"/>
+         </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
 
