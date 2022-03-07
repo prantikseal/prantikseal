@@ -2,9 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Prantik Kumar Seal</h1>
-         <p>
+         <p align="center">
 <a href="https://app.daily.dev/prantikseal" align = "left" ><img src="https://api.daily.dev/devcards/1228b8737b99441c8b06f78e36cfc87f.png?r=mtd" width="400" alt="Prantik Seal's Dev Card"/></a>
-<h5 align="center">
+<h5 align="right">
 A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!
 </h5>
 </p>
