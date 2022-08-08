@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
 
-- 📫 How to reach me? Mail me at =>**prantik0004@gmail.com**
+[![Mail Badge](https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge)][mail]
 <br><br>
 <hr>
 
