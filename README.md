@@ -16,7 +16,8 @@
 
 <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
 
-[![Mail Badge](https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge)][mailto:prantik0004@gmail.com]
+<p align="left"> <a href="mailto:prantik0004@gmail.com" target="blank"><img src="https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge" alt="prantikseal" /></a> </p>
+
 <br><br>
 <hr>
 
