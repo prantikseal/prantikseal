@@ -29,6 +29,19 @@
 
 <hr>
 
+### ⌨️ **_Languages and Tools -_**
+
+[![NPM Badge](https://img.shields.io/badge/-NPM-0D1117?logo=npm)][npm]
+[![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?logo=visual-studio-code&logoColor=007ACC)][vscode]
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js)][nodejs]
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript)][javascript]
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb)][mongodb]
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)][markdown]
+[![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)][html]
+[![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)][css]
+
+<br />
+
 <p align="center">
   <img src="https://github.com/prantikseal/prantikseal/raw/output/github-contribution-grid-snake.svg" alt="snake_eating_my_contributions 😂"></center>
 </p>
