@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Prantik Kumar Seal</h1>
-<h5 align="center">A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interest in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
+<h5 align="center">A 4th-year student pursuing Bachelors in Electronics and Communications with a keen interest in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=blue&style=flat" alt="prantikseal" /> </p>
 <p>
