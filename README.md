@@ -4,7 +4,7 @@
          width="45" />, I'm Prantik Kumar Seal</h1>
 <h5 align="center">A 4th-year student pursuing Bachelors in Electronics and Communications with a keen interest in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!!<h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=blue&style=flat" alt="prantikseal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=blue&style=flat" alt="prantikseal" /> <a href="https://wakatime.com/@1ba6412a-56da-48e0-b3f4-836f76f81098"><img src="https://wakatime.com/badge/user/1ba6412a-56da-48e0-b3f4-836f76f81098.svg" alt="Total time coded since Sep 18 2022" /></a> </p>
 <p>
 <a align= "center" href="https://github.com/prantikseal">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
