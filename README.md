@@ -2,7 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Prantik Kumar Seal</h1>
-<h3 align="center">builder, hacker, ui designer & a generalist<h3>
+<h3 align="center">
+         <code>builder</code> , <code>hacker</code>, <code>ui designer</code> & <code>generalist</code>
+<h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=blue&style=flat" alt="prantikseal" /> <a href="https://wakatime.com/@1ba6412a-56da-48e0-b3f4-836f76f81098"><img src="https://wakatime.com/badge/user/1ba6412a-56da-48e0-b3f4-836f76f81098.svg" alt="Total time coded since Sep 18 2022" /></a> </p>
 <p>
