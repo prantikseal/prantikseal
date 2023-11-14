@@ -50,7 +50,11 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/prantikseal/prantikseal/raw/output/github-contribution-grid-snake.svg" alt="snake_eating_my_contributions 😂"></center>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prantikseal/prantikseal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prantikseal/prantikseal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prantikseal/prantikseal/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 <p align="center">
          My contributions ☝️..
