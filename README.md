@@ -20,8 +20,6 @@
 
 <p align="left"> <a href="mailto:prantik0004@gmail.com" target="blank"><img src="https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge" alt="prantikseal" /></a> </p>
 
-<iframe src="https://github.com/sponsors/prantikseal/button" title="Sponsor prantikseal" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 <br><br>
 <hr>
 
